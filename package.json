@@ -1,0 +1,24 @@
+{
+  "name": "testing-framework",
+  "version": "1.0.0",
+  "description": "js testing library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudelgamal/js-testing-framework.git"
+  },
+  "author": "Mahmoud elgamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoudelgamal/js-testing-framework/issues"
+  },
+  "homepage": "https://github.com/mahmoudelgamal/js-testing-framework#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
